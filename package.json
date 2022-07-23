@@ -1,0 +1,27 @@
+{
+  "name": "my-first-node-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devScript": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17Ab/My-First-Node-REST-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/17Ab/My-First-Node-REST-API/issues"
+  },
+  "homepage": "https://github.com/17Ab/My-First-Node-REST-API#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
